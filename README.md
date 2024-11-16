@@ -18,7 +18,7 @@ The goal is to provide a simplified version of an ATM system that can be integra
 
 Clone this repository to your local machine:
     ```sh
-    git clone [<repository_url>](https://github.com/mw9385/bear_robotics_project.git)
+    git clone https://github.com/mw9385/bear_robotics_project.git
     ```
 
 ## File Structure
