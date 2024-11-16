@@ -16,15 +16,10 @@ The goal is to provide a simplified version of an ATM system that can be integra
 
 ## Installation
 
-1. Clone this repository to your local machine:
+Clone this repository to your local machine:
     ```sh
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/mw9385/bear_robotics_project.git)
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd atm-simulator
-    ```
-3. Make sure Python 3 is installed on your system.
 
 ## File Structure
 
