@@ -15,8 +15,6 @@ The goal is to provide a simplified version of an ATM system that can be integra
 - **Withdraw Money**: Withdraw money from the account.
 
 ## Installation
-
-    ```
     git clone https://github.com/mw9385/bear_robotics_project.git
 
 ## File Structure
