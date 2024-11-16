@@ -16,7 +16,7 @@ The goal is to provide a simplified version of an ATM system that can be integra
 
 ## Installation
 
-    ```sh
+    ```
     git clone https://github.com/mw9385/bear_robotics_project.git
 
 ## File Structure
